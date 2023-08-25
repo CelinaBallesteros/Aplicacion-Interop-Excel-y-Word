@@ -1,0 +1,10 @@
+C:\Users\cbo23\source\repos\TestInteropc#\TestInteropc#\obj\Debug\TestInteropc#.csproj.AssemblyReference.cache
+C:\Users\cbo23\source\repos\TestInteropc#\TestInteropc#\obj\Debug\TestInteropc_.Form1.resources
+C:\Users\cbo23\source\repos\TestInteropc#\TestInteropc#\obj\Debug\TestInteropc_.Properties.Resources.resources
+C:\Users\cbo23\source\repos\TestInteropc#\TestInteropc#\obj\Debug\TestInteropc#.csproj.GenerateResource.cache
+C:\Users\cbo23\source\repos\TestInteropc#\TestInteropc#\obj\Debug\TestInteropc#.csproj.CoreCompileInputs.cache
+C:\Users\cbo23\source\repos\TestInteropc#\TestInteropc#\bin\Debug\TestInteropc#.exe.config
+C:\Users\cbo23\source\repos\TestInteropc#\TestInteropc#\bin\Debug\TestInteropc#.exe
+C:\Users\cbo23\source\repos\TestInteropc#\TestInteropc#\bin\Debug\TestInteropc#.pdb
+C:\Users\cbo23\source\repos\TestInteropc#\TestInteropc#\obj\Debug\TestInteropc#.exe
+C:\Users\cbo23\source\repos\TestInteropc#\TestInteropc#\obj\Debug\TestInteropc#.pdb

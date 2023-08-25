@@ -1,0 +1,12 @@
+C:\Users\cbo23\source\repos\InteropTestVB\InteropTestVB\bin\Debug\InteropTestVB.exe.config
+C:\Users\cbo23\source\repos\InteropTestVB\InteropTestVB\bin\Debug\InteropTestVB.exe
+C:\Users\cbo23\source\repos\InteropTestVB\InteropTestVB\bin\Debug\InteropTestVB.pdb
+C:\Users\cbo23\source\repos\InteropTestVB\InteropTestVB\bin\Debug\InteropTestVB.xml
+C:\Users\cbo23\source\repos\InteropTestVB\InteropTestVB\obj\Debug\InteropTestVB.vbproj.AssemblyReference.cache
+C:\Users\cbo23\source\repos\InteropTestVB\InteropTestVB\obj\Debug\InteropTestVB.Form1.resources
+C:\Users\cbo23\source\repos\InteropTestVB\InteropTestVB\obj\Debug\InteropTestVB.Resources.resources
+C:\Users\cbo23\source\repos\InteropTestVB\InteropTestVB\obj\Debug\InteropTestVB.vbproj.GenerateResource.cache
+C:\Users\cbo23\source\repos\InteropTestVB\InteropTestVB\obj\Debug\InteropTestVB.vbproj.CoreCompileInputs.cache
+C:\Users\cbo23\source\repos\InteropTestVB\InteropTestVB\obj\Debug\InteropTestVB.exe
+C:\Users\cbo23\source\repos\InteropTestVB\InteropTestVB\obj\Debug\InteropTestVB.xml
+C:\Users\cbo23\source\repos\InteropTestVB\InteropTestVB\obj\Debug\InteropTestVB.pdb
